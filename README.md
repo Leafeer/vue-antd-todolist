@@ -1,29 +1,13 @@
 # vue-antd-todolist
 
-## Project setup
-```
-npm install
-```
+## 使用 Vue + Ant Design 制作一个 Todo List （备忘录）实例，内容包括：
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+    (a) 输入文字添加一条待办事项，包括填写待办截止时间
 
-### Compiles and minifies for production
-```
-npm run build
-```
+    (b) 点击完成按钮，可批量完成事项
 
-### Run your tests
-```
-npm run test
-```
+    (c) 可删除对应的待办事项
 
-### Lints and fixes files
-```
-npm run lint
-```
+    (d) 点击生成按钮，可以取得相应的完成事项或者未完成事项数据
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+    ###在基本功能的基础上进一步添加了，用户管理，内容管理，时间管理以及计时器功能
